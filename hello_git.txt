@@ -1,0 +1,3 @@
+hello this my first git program 
+
+how to learn git  please tell my some details
